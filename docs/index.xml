@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on Fuzzy-umbrella</title>
+    <link>https://ajjaic.github.io/fuzzy-umbrella/docs/</link>
+    <description>Recent content in Docs on Fuzzy-umbrella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Apr 2023 17:50:16 +0000</lastBuildDate><atom:link href="https://ajjaic.github.io/fuzzy-umbrella/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://ajjaic.github.io/fuzzy-umbrella/docs/test/</link>
+      <pubDate>Sat, 29 Apr 2023 17:50:16 +0000</pubDate>
+      
+      <guid>https://ajjaic.github.io/fuzzy-umbrella/docs/test/</guid>
+      <description>Intro Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Pharetra pharetra massa massa ultricies mi quis hendrerit dolor. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Odio ut sem nulla pharetra diam sit amet. Sem fringilla ut morbi tincidunt augue interdum velit euismod in. Eget duis at tellus at urna condimentum mattis.</description>
+    </item>
+    
+  </channel>
+</rss>
