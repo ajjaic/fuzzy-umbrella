@@ -1,4 +1,4 @@
-baseURL:
+baseURL: https://ajjaic.github.io/fuzzy-umbrella/
 languageCode: en-us
-title: My New Hugo Site
+title: Fuzzy-umbrella
 theme: PaperMod
